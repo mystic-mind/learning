@@ -1,3 +1,3 @@
 # learning
 just trying out github
-author-Ganesh
+author-Ganesh hegde
